@@ -1,0 +1,10 @@
+.alertError {
+  background-color: red;
+  padding: 20px;
+  border-radius: 10px;
+}
+.alert {
+  background-color: blue;
+  padding: 20px;
+  border-radius: 10px;
+}
